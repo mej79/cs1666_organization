@@ -35,7 +35,7 @@
 	* Coleton Bryan
 		* Pitt ID: ctb36
 		* GitHuber username: ctb36
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/ctb36/MerderMisstery
 	* (John) Colton Bove
 		* Pitt ID: jcb164
 		* GitHuber username: ColtonBove
