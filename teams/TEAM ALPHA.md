@@ -9,7 +9,7 @@
 	* Erick Brindock
 		* Pitt ID: esb43
 		* Githuber username: ErickBrindock
-		* Personal fork URL: 
+		* Personal fork URL: [https://github.com/ErickBrindock/MerderMisstery](https://github.com/ErickBrindock/MerderMisstery)
 	* Jiang Bian
 		* Pitt ID: jib38
 		* Githuber username: 54m43lJ
