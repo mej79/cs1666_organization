@@ -18,7 +18,7 @@
 	* Dilan Ozkaynak
 		* Pitt ID: dio4
 		* GitHuber username: dilan-dio4
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/Dilan1020/teamAGame 
 	* Josh Trant
 		* Pitt ID: jtt29
 		* GitHuber username: JTrant
