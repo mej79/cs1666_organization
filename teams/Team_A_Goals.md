@@ -22,7 +22,7 @@
 	* Josh Trant
 		* Pitt ID: jtt29
 		* GitHuber username: JTrant
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/JTrant/teamAGame
 	* Brian Hellested
 		* Pitt ID: bch42
 		* GitHuber username: bhellested
