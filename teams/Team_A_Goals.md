@@ -43,7 +43,7 @@
 	* Jeroen Wolfe
 		* Pitt ID: jew134
 		* GitHuber username: jerrybear16
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/Jerrybear16/teamAGame.git
 
 ## Game Description
 
