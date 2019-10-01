@@ -35,7 +35,7 @@
 	* Connor Schwartz
 		* Pitt ID: ces133
 		* GitHuber username: connorschwartz
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/connorschwartz/teamAGame
 	* Brandon Bisceglia
 		* Pitt ID: brb162
 		* GitHuber username: BetterBrandon
