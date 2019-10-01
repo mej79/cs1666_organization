@@ -43,7 +43,7 @@
 	* Jonathan Zhang
 		* Pitt ID: jcz18
 		* GitHuber username: jcz18
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/jcz18/Team-1
 	* Michael Spila
 		* Pitt ID: mrs185
 		* GitHuber username: MichaelSpila97
