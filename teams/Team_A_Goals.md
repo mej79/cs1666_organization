@@ -31,7 +31,7 @@
 	* Matt Darden
 		* Pitt ID: mtd38
 		* GitHuber username: mattdarden
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/mattdarden/teamAGame
 	* Connor Schwartz
 		* Pitt ID: ces133
 		* GitHuber username: connorschwartz
