@@ -47,7 +47,7 @@
 	* Michael Spila
 		* Pitt ID: mrs185
 		* GitHuber username: MichaelSpila97
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/MichaelSpila97/Team-1
 
 ## Game Description
 
