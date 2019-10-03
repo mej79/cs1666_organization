@@ -22,7 +22,7 @@
 	* Darpun Kohli
 		* Pitt ID: dak190
 		* GitHuber username: dkdude98
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/dkdude98/cs1666_organization 
 	* Max Jahnke
 		* Pitt ID: mej79
 		* GitHuber username: mej79
