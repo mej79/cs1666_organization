@@ -25,3 +25,7 @@ All presentation outlines must be (pull request) approved 2 weeks before the tal
 * *Nov. 18:* Personality generation
 * *Nov. 20:* Procedural level generation III
 * *Dec. 2:* AI III
+	* Michael Spila
+	* Gareth Chapman
+	* Evan Stephenson
+	* Jonathan Zhang
