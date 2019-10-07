@@ -5,7 +5,7 @@
 	* Shawn Blake
 		* Pitt ID: smb255
 		* Githuber username: smb255
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/smb255/MerderMisstery
 	* Erick Brindock
 		* Pitt ID: esb43
 		* Githuber username: ErickBrindock
