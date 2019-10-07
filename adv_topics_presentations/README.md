@@ -2,7 +2,11 @@
 
 All presentation outlines must be (pull request) approved 2 weeks before the talk.
 
-* *Oct. 14:* Networking I -J. Colton Bove, Coleton Bryan, Alex Thune, Dorian Vesely
+* *Oct. 14:* Networking I
+	* J. Colton Bove
+	* Coleton Bryan
+	* Alex Thune
+	* Dorian Vesely
 * *Oct. 21:* Physics I
 * *Oct. 23:* Procedural level generation I
 * *Oct. 28:* AI I
