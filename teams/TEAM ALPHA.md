@@ -39,7 +39,7 @@
 	* (John) Colton Bove
 		* Pitt ID: jcb164
 		* GitHuber username: ColtonBove
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/ColtonBove/MerderMisstery
 	* Dorian Vesely
 		* Pitt ID: dpv6
 		* GitHuber username: dvesely40
