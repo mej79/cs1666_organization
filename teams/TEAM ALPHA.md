@@ -18,7 +18,7 @@
 	* Griffin Lynch
 		* Pitt ID: gtl6
 		* GitHuber username: gtl6
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/Gtl6/MerderMisstery
 	* Darpun Kohli
 		* Pitt ID: dak190
 		* GitHuber username: dkdude98
