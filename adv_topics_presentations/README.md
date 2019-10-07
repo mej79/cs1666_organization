@@ -17,6 +17,9 @@ All presentation outlines must be (pull request) approved 2 weeks before the tal
 	* Milo Davis
 	* Ken Lin
 * *Nov. 6:* Procedural level generation II
+	* Peter O'Hara
+	* Pedro Pallares
+	* Keith Stebler
 * *Nov. 11:* AI II
 * *Nov. 13:* Networking II
 * *Nov. 18:* Personality generation
