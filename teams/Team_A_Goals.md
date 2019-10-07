@@ -39,7 +39,7 @@
 	* Brandon Bisceglia
 		* Pitt ID: brb162
 		* GitHuber username: BetterBrandon
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BetterBrandon/teamAGame
 	* Jeroen Wolfe
 		* Pitt ID: jew134
 		* GitHuber username: jerrybear16
