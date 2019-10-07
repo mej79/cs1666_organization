@@ -13,7 +13,7 @@
 	* Ken Lin
 		* Pitt ID: kel117
 		* GitHuber username: kel243
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/kel243/Team-1
 	* Linghai Wang
 		* Pitt ID: liw82
 		* GitHuber username: nxdens
