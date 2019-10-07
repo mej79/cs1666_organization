@@ -1,26 +1,26 @@
-# CS1666 Management weeks
+# Team 1 Management weeks
 
 Each team should copy and fill out this schedule:
 
 * 9/11 - 9/18
-	* REQUIRED Name
+	* Milo Davis
 * 9/18 - 9/25
-	* Optional Name
+	* Peter O’Hara
 * 9/25 - 10/2
-	* Optional Name
+	* Gareth Chapman
 * 10/2 - 10/9
-	* Optional Name
+	* Jonathan Zhang
 * 10/9 - 10/16
-	* Optional Name
+	* Linghai Wang
 * 10/16 - 10/23
-	* Optional Name
+	* Andrew Welby
 * 10/23 - 10/30
-	* Optional Name
+	* Evan Stephenson
 * 10/30 - 11/6
-	* Optional Name
+	* Michael Spila
 * 11/6 - 11/13
-	* Optional Name
+	* Ken Lin
 * 11/13 - 11/20
-	* Optional Name
+	* Keith Stebler
 * 11/13 - 12/4
-	* REQUIRED Name	
+	* Pedro A. Pallares	
