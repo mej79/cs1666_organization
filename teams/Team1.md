@@ -5,6 +5,7 @@
 	* Milo Davis
 		* Pitt ID: mcd66
 		* GitHuber username: minnon
+		* Personal fork: https://github.com/minnon/Team-1
 	* Andrew Welby
 		* Pitt ID: apw50
 		* GitHuber username: apw50
