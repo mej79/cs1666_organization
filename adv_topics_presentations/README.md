@@ -12,6 +12,10 @@ All presentation outlines must be (pull request) approved 2 weeks before the tal
 * *Oct. 28:* AI I
 * *Oct. 30:* Simulation
 * *Nov. 4:* Physics II
+	* Linghai Wang
+	* Andrew Welby
+	* Milo Davis
+	* Ken Lin
 * *Nov. 6:* Procedural level generation II
 * *Nov. 11:* AI II
 * *Nov. 13:* Networking II
