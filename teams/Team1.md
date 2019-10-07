@@ -17,7 +17,7 @@
 	* Linghai Wang
 		* Pitt ID: liw82
 		* GitHuber username: nxdens
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/nxdens/Team-1
 * Procedural generation sub-team
 	* Pedro Pallares
 		* Pitt ID: pep24
