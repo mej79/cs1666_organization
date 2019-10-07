@@ -39,7 +39,7 @@
 	* Gareth Chapman
 		* Pitt ID: gjc26
 		* GitHuber username: gjchapmn
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/gjchapmn/Team-1
 	* Jonathan Zhang
 		* Pitt ID: jcz18
 		* GitHuber username: jcz18
