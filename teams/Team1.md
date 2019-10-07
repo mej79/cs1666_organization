@@ -5,38 +5,50 @@
 	* Milo Davis
 		* Pitt ID: mcd66
 		* GitHuber username: minnon
+		* Personal fork URL: https://github.com/minnon/Team-1
 	* Andrew Welby
 		* Pitt ID: apw50
 		* GitHuber username: apw50
+		* Personal fork URL: 
 	* Ken Lin
 		* Pitt ID: kel117
 		* GitHuber username: kel243
+		* Personal fork URL: https://github.com/kel243/Team-1
 	* Linghai Wang
 		* Pitt ID: liw82
 		* GitHuber username: nxdens
+		* Personal fork URL: https://github.com/nxdens/Team-1
 * Procedural generation sub-team
 	* Pedro Pallares
 		* Pitt ID: pep24
 		* GitHuber username: ppallares
+		* Personal fork URL: https://github.com/ppallares/Team-1
 	* Keith Stebler
 		* Pitt ID: kcs66
 		* GitHuber username: KCS66
+		* Personal fork URL: 
 	* Peter O'Hara
 		* Pitt ID: pjo13
 		* GitHuber username: pjo13
+		* Personal fork URL: 
 * AI sub-team
 	* Evan Stephenson
 		* Pitt ID: evs25
 		* GitHuber username: EvanMStep
+		* Personal fork URL: 
 	* Gareth Chapman
 		* Pitt ID: gjc26
 		* GitHuber username: gjchapmn
+		* Personal fork URL: https://github.com/gjchapmn/Team-1
 	* Jonathan Zhang
 		* Pitt ID: jcz18
 		* GitHuber username: jcz18
+		* Personal fork URL: https://github.com/jcz18/Team-1
 	* Michael Spila
 		* Pitt ID: mrs185
 		* GitHuber username: MichaelSpila97
+		* Personal fork URL: https://github.com/MichaelSpila97/Team-1
+
 ## Game Description
 
 Our game will be a top-down shooter with strategy elements. With space as the setting, the player will spawn in 1 of the 7 procedually generated hexagonal zones that comprise the game map. As a spaceship that can be controlled with the keyboard, the player will be tasked with shooting AI enemies to clear them out of and therefore gain control of each zone. The more zones controlled by the player, the more AI allies the player can recruit.
