@@ -22,7 +22,7 @@
 	* Pedro Pallares
 		* Pitt ID: pep24
 		* GitHuber username: ppallares
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/ppallares/Team-1
 	* Keith Stebler
 		* Pitt ID: kcs66
 		* GitHuber username: KCS66
