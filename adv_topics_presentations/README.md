@@ -13,6 +13,9 @@ All presentation outlines must be (pull request) approved 2 weeks before the tal
 * *Oct. 30:* Simulation
 * *Nov. 4:* Physics II
 * *Nov. 6:* Procedural level generation II
+	* Peter O'Hara
+	* Pedro Pallares
+	* Keith Stebler
 * *Nov. 11:* AI II
 * *Nov. 13:* Networking II
 * *Nov. 18:* Personality generation
