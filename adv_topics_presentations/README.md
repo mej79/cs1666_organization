@@ -24,6 +24,10 @@ All presentation outlines must be (pull request) approved 2 weeks before the tal
 	* Pedro Pallares
 	* Keith Stebler
 * *Nov. 11:* AI II
+	* Matt Darden
+	* Connor Schwartz
+	* Brandon Bisceglia
+	* Jeroen Wolfe
 * *Nov. 13:* Networking II
 * *Nov. 18:* Personality generation
 * *Nov. 20:* Procedural level generation III
