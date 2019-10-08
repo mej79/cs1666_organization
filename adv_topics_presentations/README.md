@@ -8,6 +8,9 @@ All presentation outlines must be (pull request) approved 2 weeks before the tal
 	* Alex Thune
 	* Dorian Vesely
 * *Oct. 21:* Physics I
+	* Kenneth Choo
+	* Besir Faruk
+	* Jacob Zomper
 * *Oct. 23:* Procedural level generation I
 * *Oct. 28:* AI I
 * *Oct. 30:* Simulation
