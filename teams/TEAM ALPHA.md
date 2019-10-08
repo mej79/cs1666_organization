@@ -26,7 +26,7 @@
 	* Max Jahnke
 		* Pitt ID: mej79
 		* GitHuber username: mej79
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/mej79/MerderMisstery
 	* Graham Zug
 		* Pitt ID: gvz3
 		* GitHuber username: GrahamZugPitt
