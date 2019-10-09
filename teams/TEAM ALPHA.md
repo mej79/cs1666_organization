@@ -43,7 +43,7 @@
 	* Dorian Vesely
 		* Pitt ID: dpv6
 		* GitHuber username: dvesely40
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/dvesely40/MerderMisstery
 	* Alex Thune
 		* Pitt ID: abt31
 		* GitHuber username: abt31
