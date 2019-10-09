@@ -35,7 +35,7 @@
 	* Evan Stephenson
 		* Pitt ID: evs25
 		* GitHuber username: EvanMStep
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/EvanMStep/Team-1
 	* Gareth Chapman
 		* Pitt ID: gjc26
 		* GitHuber username: gjchapmn
