@@ -26,7 +26,7 @@
 	* Brian Hellested
 		* Pitt ID: bch42
 		* GitHuber username: bhellested
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/bhellested/teamAGame
 * AI sub-team
 	* Matt Darden
 		* Pitt ID: mtd38
