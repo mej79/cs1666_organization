@@ -5,7 +5,6 @@
 	* Dylan Miao
 		* Pitt ID: dtm32
 		* GitHuber username: dtm32
-<<<<<<< HEAD
 		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 	* Brendan Marani
 		* Pitt ID: bdm58
@@ -15,22 +14,10 @@
 		* Pitt ID: ecm53
 		* GitHuber username: evanmce
 		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
-=======
-		* Personal fork URL: 
-	* Brendan Marani
-		* Pitt ID: bdm58
-		* GitHuber username: BrendanMarani
-		* Personal fork URL: 
-	* Evan McEllhenney
-		* Pitt ID: ecm53
-		* GitHuber username: evanmce
-		* Personal fork URL: 
->>>>>>> upstream/master
 * Networking sub-team
 	* Jakob Strobl
 		* Pitt ID: jps132
 		* GitHuber username: Jakob-Strobl
-<<<<<<< HEAD
 		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 	* Adam Ibrahim
 		* Pitt ID: adi11
@@ -40,22 +27,10 @@
 		* Pitt ID: apc47
 		* GitHuber username: apc47
 		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
-=======
-		* Personal fork URL: 
-	* Adam Ibrahim
-		* Pitt ID: adi11
-		* GitHuber username: ayoo324
-		* Personal fork URL: 
-	* Alec Cantor
-		* Pitt ID: apc47
-		* GitHuber username: apc47
-		* Personal fork URL: 
->>>>>>> upstream/master
 * AI sub-team
 	* Danny Phan
 		* Pitt ID: dap167
 		* GitHuber username: dap167
-<<<<<<< HEAD
 		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 	* Alex Clewell
 		* Pitt ID: alc261
@@ -69,21 +44,6 @@
 		* Pitt ID: bjk71
 		* GitHuber username: bjk71
 		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
-=======
-		* Personal fork URL: 
-	* Alex Clewell
-		* Pitt ID: alc261
-		* GitHuber username: aclewell3
-		* Personal fork URL: 
-	* Nate Lyman
-		* Pitt ID: njl26
-		* GitHuber username: nlyman9
-		* Personal fork URL: 
-	* Ben Kurzyna
-		* Pitt ID: bjk71
-		* GitHuber username: bjk71
-		* Personal fork URL: 
->>>>>>> upstream/master
 
 ## Game Description
 
