@@ -26,7 +26,7 @@
 	* Keith Stebler
 		* Pitt ID: kcs66
 		* GitHuber username: KCS66
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/kcs66/Team-1
 	* Peter O'Hara
 		* Pitt ID: pjo13
 		* GitHuber username: pjo13
