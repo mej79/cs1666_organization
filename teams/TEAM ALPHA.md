@@ -29,7 +29,7 @@
 		* Personal fork URL: https://github.com/mej79/MerderMisstery
 	* Graham Zug
 		* Pitt ID: gvz3
-		* GitHuber username: GrahamZug
+		* GitHuber username: GrahamZugPitt
 		* Personal fork URL: https://github.com/GrahamZug/MerderMisstery
 * Networking Subteam
 	* Coleton Bryan
