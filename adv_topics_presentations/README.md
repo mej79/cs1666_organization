@@ -16,6 +16,10 @@ All presentation outlines must be (pull request) approved 2 weeks before the tal
 	* Dylan Miao
 	* Evan McEllhenney
 * *Oct. 28:* AI I
+	* Alex Clewell
+	* Nate Lyman
+	* Danny Phan
+	* Ben Kurzyna
 * *Oct. 30:* Simulation
 * *Nov. 4:* Physics II
 	* Linghai Wang
