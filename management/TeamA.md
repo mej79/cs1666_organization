@@ -13,7 +13,7 @@ Each team should copy and fill out this schedule:
 * 10/9 - 10/16
 	* Empty
 * 10/16 - 10/23
-	* Jeroen Wolfe
+	* Jeroen Wolfe - check
 * 10/23 - 10/30
 	* Matt Darden
 * 10/30 - 11/6
