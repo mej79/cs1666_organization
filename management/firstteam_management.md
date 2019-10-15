@@ -3,24 +3,24 @@
 Each team should copy and fill out this schedule:
 
 * 9/11 - 9/18
-	* Brian Hellested
+	* Alec Cantor
 * 9/18 - 9/25
-	* Jacob Zonper
+	* Brendan Marani
 * 9/25 - 10/2
-	* Josh Trant
+	* Adam Ibrahim
 * 10/2 - 10/9
-	* Dilan Ozkaynak
+	* Alex Clewell
 * 10/9 - 10/16
-	* Empty
+	* Nobody
 * 10/16 - 10/23
-	* Jeroen Wolfe - check
+	* Danny Phan
 * 10/23 - 10/30
-	* Matt Darden
+	* Nate Lyman
 * 10/30 - 11/6
-	* Connor Schwartz
+	* Ben Kurzyna
 * 11/6 - 11/13
-	* Kenneth Choo
+	* Dylan Miao
 * 11/13 - 11/20
-	* Faruk Yucel
+	* Evan McEllhenney
 * 11/13 - 12/4
-	* Brandon Bisceglia
+	* Jakob Strobl

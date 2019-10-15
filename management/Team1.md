@@ -1,26 +1,26 @@
-# CS1666 Management weeks
+# Team 1 Management weeks
 
 Each team should copy and fill out this schedule:
 
 * 9/11 - 9/18
-	* Brian Hellested
+	* Milo Davis
 * 9/18 - 9/25
-	* Jacob Zonper
+	* Peter O’Hara
 * 9/25 - 10/2
-	* Josh Trant
+	* Gareth Chapman
 * 10/2 - 10/9
-	* Dilan Ozkaynak
+	* Jonathan Zhang
 * 10/9 - 10/16
-	* Empty
+	* Linghai Wang
 * 10/16 - 10/23
-	* Jeroen Wolfe
+	* Andrew Welby
 * 10/23 - 10/30
-	* Matt Darden
+	* Evan Stephenson
 * 10/30 - 11/6
-	* Connor Schwartz
+	* Michael Spila
 * 11/6 - 11/13
-	* Kenneth Choo
+	* Ken Lin
 * 11/13 - 11/20
-	* Optional Name
+	* Keith Stebler
 * 11/13 - 12/4
-	* REQUIRED Name	
+	* Pedro A. Pallares	
