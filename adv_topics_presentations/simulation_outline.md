@@ -2,7 +2,7 @@
 
 ## Presentation 1 (10/30):
 
-Networking Presentation
+Simulation Presentation
 
 Team ALPHA
 
