@@ -5,7 +5,7 @@
 	* Jacob Zomper
 		* Pitt ID: jlz43
 		* GitHuber username: jacob-zomper
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/jacob-zomper/teamAGame
 	* Kennet Choo
 		* Pitt ID: kac311
 		* GitHuber username: TerableCoder
