@@ -4,12 +4,13 @@ End: 10/30
 
 ## Goals
 
-1. AI -
-  a.
-  b.
+Markup :
+1. AI -d
+  1.
+  2.
 2. ISD -
-  a.
-  b.
+  1.
+  2.
 3. Networking - Functioning Chat server (long term)
-  a. UI for chatroom complete
-  b. Server and Client side communication
+  1. UI for chatroom complete
+  2. Server and Client side communication
