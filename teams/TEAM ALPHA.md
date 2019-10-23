@@ -30,7 +30,7 @@
 	* Graham Zug
 		* Pitt ID: gvz3
 		* GitHuber username: GrahamZugPitt
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/GrahamZug/MerderMisstery
 * Networking Subteam
 	* Coleton Bryan
 		* Pitt ID: ctb36
@@ -47,7 +47,7 @@
 	* Alex Thune
 		* Pitt ID: abt31
 		* GitHuber username: abt31
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/abt31/MerderMisstery
 
 ## Game Description
 
