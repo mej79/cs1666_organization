@@ -24,4 +24,20 @@
 
 ## Prsentation 2 (11/11):
 
+  * Continuation of explaining beginner concepts that first group presents on
+      * Ex. How AI is needed for video games to be fun/interactive 
+  * Learning
+      * Different forms of learning
+          * Intra-Behavior, Inter-Behavior
+      * Action Prediction
+          * N-grams?
+      * Decision learning
+  * AI in our game
+      * Explain how we got the enemy plane to follow at first
+      * Explain why traditional path-finding algorithms (i.e. the ones involving Dijkstra’s or A* algorithm) aren’t the best choice for path-finding for the enemy plane
+          * Introduce risk scoring algorithm
+  * Future Plans for AI in our game
+      * Possible enhancements to risk scoring algorithm
+      * Can explain some concepts that are in the book provided in the AI sub chat
+
 ## Presentation 3 (12/2):
