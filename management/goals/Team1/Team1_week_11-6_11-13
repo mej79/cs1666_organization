@@ -1,0 +1,18 @@
+Manager: Ken Lin Start: 11/6 End: 11/13
+
+GOALS
+
+AI:
+- Begin working on Enemy AI
+- Begin working on AI targeting and shooting
+
+Level Generation:
+- Spotlight/fog of war camera on maze
+- Have different types of galaxies spawn depending on what type of star spawns
+
+Physics:
+- Finish shooting
+- Expanding collision
+
+General:
+- Cleaning up the backend of objects to be more consistent
