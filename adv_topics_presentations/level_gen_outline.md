@@ -54,4 +54,20 @@ https://www.gamasutra.com/blogs/AAdonaac/20150903/252889/Procedural_Dungeon_Gene
     *Advantages and Disadvantages of Eller's Algorithm, including implementation challenges.
     *Why we chose to implement this over other algorithms 
 
+
+
 ## Presentation 3 (11/20):
+*Begin by explaining the various ways that procedural generation is to be used in our game
+  *generating random caves
+  *generating obstacles
+  *generating enemies
+  *what factors did we have to take into account for generating each of these entities?
+*discuss the obstacles that we overcame and how we solved these problems
+  *different procedures we had to create the cave and why we chose what we did
+  *pros and cons of the options we had
+  *ensuring a cave was traversible
+  *creating a scaling difficulty
+    *scaling of turrets, powerups, missiles
+*deep dive into our cave algorithm
+  *show the class the code
+  *demo the game to show it in action
