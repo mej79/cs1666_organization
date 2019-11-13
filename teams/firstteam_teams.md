@@ -5,45 +5,45 @@
 	* Dylan Miao
 		* Pitt ID: dtm32
 		* GitHuber username: dtm32
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 	* Brendan Marani
 		* Pitt ID: bdm58
 		* GitHuber username: BrendanMarani
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 	* Evan McEllhenney
 		* Pitt ID: ecm53
 		* GitHuber username: evanmce
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 * Networking sub-team
 	* Jakob Strobl
 		* Pitt ID: jps132
 		* GitHuber username: Jakob-Strobl
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 	* Adam Ibrahim
 		* Pitt ID: adi11
 		* GitHuber username: ayoo324
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 	* Alec Cantor
 		* Pitt ID: apc47
 		* GitHuber username: apc47
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 * AI sub-team
 	* Danny Phan
 		* Pitt ID: dap167
 		* GitHuber username: dap167
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 	* Alex Clewell
 		* Pitt ID: alc261
 		* GitHuber username: aclewell3
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 	* Nate Lyman
 		* Pitt ID: njl26
 		* GitHuber username: nlyman9
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 	* Ben Kurzyna
 		* Pitt ID: bjk71
 		* GitHuber username: bjk71
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BrendanMarani/cs1666-First-Team/graphs/contributors
 
 ## Game Description
 

@@ -5,11 +5,11 @@
 	* Jacob Zomper
 		* Pitt ID: jlz43
 		* GitHuber username: jacob-zomper
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/jacob-zomper/teamAGame
 	* Kennet Choo
 		* Pitt ID: kac311
 		* GitHuber username: TerableCoder
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/TerableCoder/teamAGame
 	* Faruk Yucel
 		* Pitt ID: fby1
 		* GitHuber username: fby1
@@ -18,32 +18,32 @@
 	* Dilan Ozkaynak
 		* Pitt ID: dio4
 		* GitHuber username: dilan-dio4
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/Dilan1020/teamAGame 
 	* Josh Trant
 		* Pitt ID: jtt29
 		* GitHuber username: JTrant
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/JTrant/teamAGame
 	* Brian Hellested
 		* Pitt ID: bch42
 		* GitHuber username: bhellested
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/bhellested/teamAGame
 * AI sub-team
 	* Matt Darden
 		* Pitt ID: mtd38
 		* GitHuber username: mattdarden
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/mattdarden/teamAGame
 	* Connor Schwartz
 		* Pitt ID: ces133
 		* GitHuber username: connorschwartz
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/connorschwartz/teamAGame
 	* Brandon Bisceglia
 		* Pitt ID: brb162
 		* GitHuber username: BetterBrandon
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BetterBrandon/teamAGame
 	* Jeroen Wolfe
 		* Pitt ID: jew134
 		* GitHuber username: jerrybear16
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/Jerrybear16/teamAGame.git
 
 ## Game Description
 
