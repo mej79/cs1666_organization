@@ -45,15 +45,17 @@
 * A* vs Theta* algorithm
   * Algorithm In Theory
     * Reminder of what A* algorithm is from the last AI presentation
-    * Go over Djikstra and A* relationship as well as what they are and how they operate because it’s very important to our AI implementation
-  * Go over theta* algorithm and its relationship to A*
-    * Contrast the two algorithms and what Theta * adds to A*
-    * Go through a simple example of pathing using theta*
+    * Go over theta* algorithm and its relationship to A*
+       * Contrast the two algorithms and what Theta * adds to A*
+       * Go through a simple example of pathing using theta*
   * Talk about navigational mesh component of Theta *
     * Initial mesh construction
     * How we use the mesh
     * How the mesh is made
     * Mesh improvements
+  * AIShip radar (Will probably go between Implementation and Ship states)
+    * Avoiding friendly fire
+    * Interaction with mesh
 * Implementation:
   * What is the perfect pathfinding implementation?
     * One that finds the absolute minimum valid path in the shortest amount of time
