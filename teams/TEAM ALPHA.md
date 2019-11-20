@@ -5,7 +5,7 @@
 	* Shawn Blake
 		* Pitt ID: smb255
 		* Githuber username: smb255
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/smb255/MerderMisstery
 	* Erick Brindock
 		* Pitt ID: esb43
 		* Githuber username: ErickBrindock
@@ -18,19 +18,19 @@
 	* Griffin Lynch
 		* Pitt ID: gtl6
 		* GitHuber username: gtl6
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/Gtl6/MerderMisstery
 	* Darpun Kohli
 		* Pitt ID: dak190
 		* GitHuber username: dkdude98
-		* Personal fork URL: https://github.com/dkdude98/cs1666_organization 
+		* Personal fork URL: https://github.com/dkdude98/MerderMisstery
 	* Max Jahnke
 		* Pitt ID: mej79
 		* GitHuber username: mej79
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/mej79/MerderMisstery
 	* Graham Zug
 		* Pitt ID: gvz3
 		* GitHuber username: GrahamZugPitt
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/GrahamZug/MerderMisstery
 * Networking Subteam
 	* Coleton Bryan
 		* Pitt ID: ctb36
@@ -39,15 +39,15 @@
 	* (John) Colton Bove
 		* Pitt ID: jcb164
 		* GitHuber username: ColtonBove
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/ColtonBove/MerderMisstery
 	* Dorian Vesely
 		* Pitt ID: dpv6
 		* GitHuber username: dvesely40
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/dvesely40/MerderMisstery
 	* Alex Thune
 		* Pitt ID: abt31
 		* GitHuber username: abt31
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/abt31/MerderMisstery
 
 ## Game Description
 

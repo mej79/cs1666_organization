@@ -1,0 +1,6 @@
+# Goals for the week of 10/9 - 10/16
+* Manager: Linghai Wang
+1. Refactor movement controls to be fps independent
+2.  Refine AI movement and add rotational movement to it
+3.  Have player ships affected by gravity from stars
+4.  Implement a scrolling camera
